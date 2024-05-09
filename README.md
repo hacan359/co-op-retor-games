@@ -7,6 +7,6 @@ Full guide retroarch setting (rus only) https://steamcommunity.com/sharedfiles/f
 
 ## ROMs collection
 
-| Platform     | Name | Preview                                                         |
-|--------------|-----|-----------------------------------------------------------------|
-| NES          | Arkanoid | ![Название]("thumbnails/nes/Named_Snaps/Arkanoid (U) \[!].png") |
+| Platform     | Name | Preview                                                        |
+|--------------|-----|----------------------------------------------------------------|
+| NES          | Arkanoid | ![Название](./thumbnails/nes/Named_Snaps/Arkanoid (U) [!].png) |

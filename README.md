@@ -1,6 +1,6 @@
 # co-op-retor-games
 
-Co-Op Retro Games for 2 players. Full copability with retroachivment and nostalgie
+Co-Op Retro Games for 2 players. Full compatibility with [https://retroachievements.org/](https://static.retroachievements.org/assets/images/ra-icon.webp) and nostalgie
 
 ##
 

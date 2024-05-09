@@ -1,8 +1,8 @@
-# co-op-retor-games
+# COOP retro games collection
 
 Co-Op Retro Games for 2 players. Full compatibility with ![https://retroachievements.org](ra-icon.png) and nostalgie
 
-##
+## Guide retroarch
 
 Full guide retroarch setting (rus only) https://steamcommunity.com/sharedfiles/filedetails/?id=2231153258
 

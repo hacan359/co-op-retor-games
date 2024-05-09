@@ -1,6 +1,24 @@
 # COOP retro games collection
 
-Co-Op Retro Games for 2 players. Full compatibility with ![https://retroachievements.org](ra-icon.png) and nostalgie
+Co-Op Retro Games for 2 players. Full compatibility with ![https://retroachievements.org](ra-icon.png) and nostalgie.
+
+## Download
+
+Download last [collection](https://github.com/hacan359/co-op-retro-games/releases) in Assets.
+
+Directory Structure
+
+```
+├── ...
+├── roms            # roms collection 
+│   ├── nes         # nes ROMs
+│   ├── snes        # snes ROMs    
+├── thumbnails      # Image and preview for roms    
+│   ├── nes         # Platform
+│       ├── Named_Snaps  #game footage  
+│       ├── Named_Titles #title sceen footage
+│   ...
+```
 
 ## Contribution
 

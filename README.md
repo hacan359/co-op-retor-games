@@ -1,6 +1,6 @@
 # COOP retro games collection
 
-Co-Op Retro Games for 2 players. Full compatibility with ![https://retroachievements.org](ra-icon.png) and nostalgie.
+Co-Op Retro Games for 2 players. Full compatibility with ![https://retroachievements.org](ra-icon.png) and nostalgie. Roms compatibility with auto scapper image
 
 ## Download
 
